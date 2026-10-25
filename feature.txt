@@ -1,1 +1,2 @@
 Tính năng mới của Binh
+Thêm tính năng Pull Request cho bài thực hành
